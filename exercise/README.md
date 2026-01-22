@@ -1,3 +1,5 @@
+For the following assignment, build separate components for each to accomplish their specified tasks
+
 ## Exercise 1: Light Switch Counter
 
 Build a light switch button that toggles between “ON” and “OFF.”  
