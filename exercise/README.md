@@ -15,7 +15,7 @@ Create an array of movie objects.  A movie object should consist of an **id**, *
 
 Display the movies in a **Movie** component.  The movie component should consist of the title, rating, and a button that allows the user to **remove the movie from the list**
 
-You are also going to create a way to add movies to the list.  We have not gone over forms yet, so we won't be able to dynamically add items based on the contents of an input element just yet. So for now, feel free to hardcode this portion your add function to add a movie object to our list.  
+You are also going to create a way to add movies to the list.  We have not gone over forms yet, so we won't be able to dynamically add items based on the contents of an input element just yet. So for now, feel free to hardcode this portion of your AddMovie function to add a movie object to our list.  
 
 You should also add a “Clear All” button to empty the list.  
 
